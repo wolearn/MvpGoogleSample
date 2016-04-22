@@ -210,3 +210,6 @@ public class LoginHttp {
 }
 ```
 over，如果你快受不了快爆炸的activity，原味的mvp是你无悔的选择。有用请帮忙戳喜欢。。。。。
+
+#博客
+http://www.jianshu.com/users/ed407c8602e0/latest_articles
